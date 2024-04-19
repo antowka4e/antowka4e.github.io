@@ -1,0 +1,2 @@
+# Projekta-darbs
+Datorikas darbs 
